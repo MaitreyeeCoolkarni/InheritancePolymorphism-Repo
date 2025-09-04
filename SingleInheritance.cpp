@@ -33,3 +33,5 @@ int main() {
     Dog D1("J", 4);
     D1.sound();
 }
+//Output
+//Woof
